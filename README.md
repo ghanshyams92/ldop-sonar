@@ -1,10 +1,10 @@
 #Supported tags and respective Dockerfile links
 
-- [`0.1.0`, `0.1.0` (*0.1.0/Dockerfile*)](https://github.com/Accenture/adop-sonar/blob/master/Dockerfile.md)
+- [`0.1.0`, `0.1.0` (*0.1.0/Dockerfile*)](https://github.com/liatrio/ldop-sonar/blob/master/Dockerfile.md)
 
 # What is adop-sonar?
 
-adop-sonar is a wrapper for the sonarqube image. It has primarily been built to perform extended configuration.
+adop-sonar is a wrapper for the Sonarqube image. It has primarily been built to perform extended configuration.
 SonarQube® software (previously called Sonar) is an open source quality management platform, dedicated to continuously analyze and measure technical quality, from project portfolio to method.
 
 # How to use this image
